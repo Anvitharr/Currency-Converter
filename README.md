@@ -6,4 +6,5 @@ Simple Currency converter GUI using Python and Tkinter.
 Output:
 
 
-<img width="301" alt="currency" src="https://github.com/Anvitharr/Currency-Converter/assets/93992280/44309912-b915-440b-bd98-a3a0681b04de">
+![image](https://github.com/Anvitharr/Currency-Converter/assets/93992280/9549be8b-0d90-4693-aeed-146985ca623e)
+
